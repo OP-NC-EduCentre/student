@@ -1,7 +1,1 @@
 # student
-
-!!!!!!!!!!!!!!!!!!!!!!!!!
-ййййййййййййййййййй
-dddddddddddddddddddddddddddd
-
-ssssssssssssssssss
