@@ -15,7 +15,7 @@ jobs:
     # в каталозі $GITHUB_WORKSPACE
     uses: "actions/checkout@v3"
   - name: Start SQL Linter
-    # виконнання декількох послідовних команд shell-інтерпретатором
+    # виконання декількох послідовних команд shell-інтерпретатором
     run: |
       pip install sqlfluff
       sqlfluff lint $GITHUB_WORKSPACE/query.sql --dialect oracle
